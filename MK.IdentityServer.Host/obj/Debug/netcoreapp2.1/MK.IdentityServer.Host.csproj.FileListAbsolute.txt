@@ -29,3 +29,4 @@ D:\Data\Personal Data\Application\MK.IdentityServer\MK.IdentityServer.Host\obj\D
 D:\Data\Personal Data\Application\MK.IdentityServer\MK.IdentityServer.Host\obj\Debug\netcoreapp2.1\MK.IdentityServer.Host.dll
 D:\Data\Personal Data\Application\MK.IdentityServer\MK.IdentityServer.Host\obj\Debug\netcoreapp2.1\MK.IdentityServer.Host.pdb
 D:\Data\Personal Data\Application\MK.IdentityServer\MK.IdentityServer.Host\obj\Debug\netcoreapp2.1\MK.IdentityServer.Host.csproj.CopyComplete
+D:\Data\Personal Data\Application\MK.IdentityServer\MK.IdentityServer.Host\obj\Debug\netcoreapp2.1\MK.IdentityServer.Host.csprojAssemblyReference.cache
