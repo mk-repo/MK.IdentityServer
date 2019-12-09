@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace MK.IdentityServer.Host
+namespace MK.IdentityServer.WebApi
 {
 	public class Startup
 	{

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
-namespace MK.IdentityServer.Host.Controllers
+namespace MK.IdentityServer.WebApi.Controllers
 {
 	[Route("api/[controller]")]
 	[ApiController]

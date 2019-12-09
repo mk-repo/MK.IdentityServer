@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace MK.IdentityServer.Host
+namespace MK.IdentityServer.WebApi
 {
 	public class Program
 	{
